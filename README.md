@@ -41,12 +41,6 @@ GITLAB_PAT=your-gitlab-personal-access-token
 
 ### Local Setup
 
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd <repository-name>
-```
-
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
